@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDGeneratorAPI", "IDGeneratorAPI\IDGeneratorAPI.csproj", "{C68F5BF4-D81B-44B3-9559-8EBB63C465B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionDatabaseDatas", "InjectionDatabaseDatas\InjectionDatabaseDatas.csproj", "{28A36E41-F444-4DD1-80D5-41B6E6D64193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68F5BF4-D81B-44B3-9559-8EBB63C465B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68F5BF4-D81B-44B3-9559-8EBB63C465B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68F5BF4-D81B-44B3-9559-8EBB63C465B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68F5BF4-D81B-44B3-9559-8EBB63C465B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A36E41-F444-4DD1-80D5-41B6E6D64193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A36E41-F444-4DD1-80D5-41B6E6D64193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A36E41-F444-4DD1-80D5-41B6E6D64193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A36E41-F444-4DD1-80D5-41B6E6D64193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
